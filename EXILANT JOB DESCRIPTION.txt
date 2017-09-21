@@ -1,0 +1,12 @@
+
+Minimum 3-8 years in DevOps Automation and Release Engineering in Unix/Mac based environment
+Strong Experience with version control systems like Git, SVN, Perforce etc
+Strong Experience in continuous deployment frameworks like Ansible OR Puppet OR Chef
+Strong Experience in build and continuous integration tools like Jenkins, Hudson etc
+Strong problem solving and resolution skills
+Excellent oral and written communication skills
+Additional good to have skills:
+Shell/Perl/Python/Ruby script to automate and/or debug
+ 
+
+AFTER RECIVING UR CALL V HAVE BEEN INTIVTED  FOR A MEETING REGARDING THE PROJECT REE...NGINEERING (CHANGES) AND TIMELINES....
